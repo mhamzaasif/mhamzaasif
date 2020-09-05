@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋<br/>I'm Muhammd Hamza! <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="50">
 
 <!--
 **mhamzaasif/mhamzaasif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> I'm Muhammd Hamza! <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p>
   <em>Software Enginner from <a href="http://www.ucp.edu.pk">University of Central Punjab</a>
