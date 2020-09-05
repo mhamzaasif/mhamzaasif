@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
     </br>
     Developer at <a href="https://www.allzonetech.com">Allzone Tech</a>
-    <img align="left" src="https://allzonetech.com/wp-content/uploads/2019/10/Logo.png" >
+    <br/><img src="https://allzonetech.com/wp-content/uploads/2019/10/Logo.png" width="250"/>
   </em>
 </p>
 
