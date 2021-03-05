@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <img src="https://www.ucp.edu.pk/inc/uploads/2019/06/ucp-sticky-logo-white-1.png"/>
 
 ## 🖥️ Work History
-- Currently working as Software Engineer **@ [Allzone Technologies](www.allzonetech.com)**
+- Worked as Software Engineer **@ [Allzone Technologies](www.allzonetech.com)**
 <img src="https://allzonetech.com/wp-content/uploads/2020/12/site-logo-inverse-200.png" width="250"/>
 
 ## 🌱 I’m currently learning ...
