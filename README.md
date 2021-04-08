@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 ## 📫 How to reach me:
 [![Linkedin: Muhammad Hamza](https://img.shields.io/badge/-muhammad--hamza--44488715a-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-hamza-44488715a/)](https://www.linkedin.com/in/muhammad-hamza-44488715a/)
 
-[![GitHub mhamzaasif](https://img.shields.io/github/followers/mhamzaasif?label=follow&style=social)](https://github.com/hamza-asif1)
+[![GitHub mhamzaasif](https://img.shields.io/github/followers/mhamzaasif?label=follow&style=social)](https://github.com/mhamzaasif)
 
 [![Twitter: Muhammad Hamza](https://img.shields.io/twitter/follow/its_hamzaasif?style=social)](https://twitter.com/its_hamzaasif)
 
