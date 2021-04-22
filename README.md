@@ -56,6 +56,11 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Technology-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Technology-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
 
+# ⚡ Fun facts
+
+![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhamzaasif&show_icons=true&theme=synthwave)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhamzaasif&langs_count=10&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to reach me:
 [![Linkedin: Muhammad Hamza](https://img.shields.io/badge/-muhammad--hamza--44488715a-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-hamza-44488715a/)](https://www.linkedin.com/in/muhammad-hamza-44488715a/)
