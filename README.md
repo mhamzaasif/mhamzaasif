@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<body style="background-color:black">
+<body style="background-color:black;color:wheat">
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <!-- <p>
   <em>Software Engineer from <a href="http://www.ucp.edu.pk">University of Central Punjab</a>     
@@ -23,23 +23,26 @@ Here are some ideas to get you started:
 </p> -->
 
 # Hi there 👋
-**I am a computer science *graduate* 🎓 and *software Engineer* 👨‍💻 in persuit of learning something new from industry along side the conventional education.**
+
+**I am a computer science _graduate_ 🎓 and _software Engineer_ 👨‍💻 in persuit of learning something new from industry along side the conventional education.**
 
 # <div styles="dispaly:flex;align-items:center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100px"> A little more about me...</div>
 
 ## 🎓 Education
-- Computer Science graduation from **[University of Central Punjab](www.ucp.edu.pk)**  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-<img src="https://www.ucp.edu.pk/inc/uploads/2019/06/ucp-sticky-logo-white-1.png"/>
+
+- Computer Science graduation from **[University of Central Punjab](www.ucp.edu.pk)** <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+  <img src="https://www.ucp.edu.pk/inc/uploads/2019/06/ucp-sticky-logo-white-1.png"/>
 
 ## 🖥️ Work History
+
 - Worked as Software Engineer **@ [Allzone Technologies](www.allzonetech.com)**
-<img src="https://allzonetech.com/wp-content/uploads/2020/12/site-logo-inverse-200.png" width="250"/>
+  <img src="https://allzonetech.com/wp-content/uploads/2020/12/site-logo-inverse-200.png" width="250"/>
 
 - Working as Associate Software Engineer **@ [Phaedra Solutions](https://www.phaedrasolutions.com/)**
-
-<div style="background-color:white"><img src="https://www.phaedrasolutions.com/wp-content/uploads/2020/09/330-x-82-@2x.png/#img-thumbnail" width="250"/></div>
+  <img src="https://www.phaedrasolutions.com/wp-content/uploads/2020/09/330-x-82-@2x.png" width="250" style="background-color:white"/>
 
 ## 🌱 I’m currently learning ...
+
 - Machine Learning
 - Artificial Intelligence
 - Modern Web development
@@ -68,6 +71,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhamzaasif&langs_count=10&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to reach me:
+
 [![Linkedin: Muhammad Hamza](https://img.shields.io/badge/-muhammad--hamza--44488715a-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-hamza-44488715a/)](https://www.linkedin.com/in/muhammad-hamza-44488715a/)
 
 [![GitHub mhamzaasif](https://img.shields.io/github/followers/mhamzaasif?label=follow&style=social)](https://github.com/mhamzaasif)
@@ -75,4 +79,5 @@ Here are some ideas to get you started:
 [![Twitter: Muhammad Hamza](https://img.shields.io/twitter/follow/its_hamzaasif?style=social)](https://twitter.com/its_hamzaasif)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 </body>

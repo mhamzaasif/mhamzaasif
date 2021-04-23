@@ -1,6 +1,0 @@
-img{
-  background-color:black;
-}
-img[src$='#img-thumbnail'] { 
-  background-color:white;
-}
