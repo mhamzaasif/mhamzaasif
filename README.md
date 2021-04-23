@@ -31,15 +31,15 @@ Here are some ideas to get you started:
 ## 🎓 Education
 
 - Computer Science graduation from **[University of Central Punjab](www.ucp.edu.pk)** <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-  <img src="https://www.ucp.edu.pk/inc/uploads/2019/06/ucp-sticky-logo-white-1.png"/>
+ <!-- <img src="https://www.ucp.edu.pk/inc/uploads/2019/06/ucp-sticky-logo-white-1.png"/>-->
 
 ## 🖥️ Work History
 
 - Worked as Software Engineer **@ [Allzone Technologies](www.allzonetech.com)**
-  <img src="https://allzonetech.com/wp-content/uploads/2020/12/site-logo-inverse-200.png" width="250"/>
+ <!-- <img src="https://allzonetech.com/wp-content/uploads/2020/12/site-logo-inverse-200.png" width="250"/> -->
 
 - Working as Associate Software Engineer **@ [Phaedra Solutions](https://www.phaedrasolutions.com/)**
-  <img src="https://www.phaedrasolutions.com/wp-content/uploads/2020/09/330-x-82-@2x.png" width="250" style="background-color:white"/>
+<!--  <img src="https://www.phaedrasolutions.com/wp-content/uploads/2020/09/330-x-82-@2x.png" width="250" style="background-color:white"/> -->
 
 ## 🌱 I’m currently learning ...
 
