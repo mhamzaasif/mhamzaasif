@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<body style="background-color:black">
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <!-- <p>
   <em>Software Engineer from <a href="http://www.ucp.edu.pk">University of Central Punjab</a>     
@@ -33,6 +34,10 @@ Here are some ideas to get you started:
 ## 🖥️ Work History
 - Worked as Software Engineer **@ [Allzone Technologies](www.allzonetech.com)**
 <img src="https://allzonetech.com/wp-content/uploads/2020/12/site-logo-inverse-200.png" width="250"/>
+
+- Working as Associate Software Engineer **@ [Phaedra Solutions](https://www.phaedrasolutions.com/)**
+
+<div style="background-color:white"><img src="https://www.phaedrasolutions.com/wp-content/uploads/2020/09/330-x-82-@2x.png" width="250"/></div>
 
 ## 🌱 I’m currently learning ...
 - Machine Learning
@@ -70,3 +75,4 @@ Here are some ideas to get you started:
 [![Twitter: Muhammad Hamza](https://img.shields.io/twitter/follow/its_hamzaasif?style=social)](https://twitter.com/its_hamzaasif)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+</body>
