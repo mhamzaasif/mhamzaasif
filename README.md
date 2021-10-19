@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=Sass&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-NodeJs-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-NextJs-informational?style=flat&logo=Next.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Code%20Igniter-informational?style=flat&logo=codeigniter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Version%20Control-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Vs%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
