@@ -60,11 +60,22 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Framework-NodeJs-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-NextJs-informational?style=flat&logo=Next.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Code%20Igniter-informational?style=flat&logo=codeigniter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-NestJs-informational?style=flat&logo=NestJs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Datebase-PostgreSql-informational?style=flat&logo=PostgreSql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Datebase-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Datebase-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Datebase-Microsoft%20SQL%20Server-informational?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Datebase-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=Jest&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Testing-Selenium-informational?style=flat&logo=Selenium&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Version%20Control-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Vs%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Technology-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Technology-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/Deployment-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-amazon%20aws-informational?style=flat&logo=amazon+aws&logoColor=white&color=2bbc8a)
+  
+  
 # ⚡ Fun facts
 
 ![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhamzaasif&show_icons=true&theme=synthwave)
