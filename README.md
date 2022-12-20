@@ -38,9 +38,10 @@ Here are some ideas to get you started:
 - Worked as Software Engineer **@ [Allzone Technologies](www.allzonetech.com)**
  <!-- <img src="https://allzonetech.com/wp-content/uploads/2020/12/site-logo-inverse-200.png" width="250"/> -->
 
-- Working as Software Engineer **@ [Phaedra Solutions](https://www.phaedrasolutions.com/)**
+- Worked as Software Engineer **@ [Phaedra Solutions](https://www.phaedrasolutions.com/)**
 <!--  <img src="https://www.phaedrasolutions.com/wp-content/uploads/2020/09/330-x-82-@2x.png" width="250" style="background-color:white"/> -->
 
+- Working as Software Engineer **@ [Intech Automation & Intelligence](https://www.intechww.com/)**
 ## 🌱 I’m currently learning ...
 
 - Machine Learning
