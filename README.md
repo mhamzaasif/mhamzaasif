@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## 🖥️ Work History
 
-- Worked as Software Engineer **@ [Allzone Technologies](www.allzonetech.com)**
+- Worked as Software Engineer **@ [Allzone Technologies](https://www.allzonetech.com)**
  <!-- <img src="https://allzonetech.com/wp-content/uploads/2020/12/site-logo-inverse-200.png" width="250"/> -->
 
 - Worked as Software Engineer **@ [Phaedra Solutions](https://www.phaedrasolutions.com/)**
