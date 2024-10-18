@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 - Worked as Software Engineer **@ [Phaedra Solutions](https://www.phaedrasolutions.com/)**
 <!--  <img src="https://www.phaedrasolutions.com/wp-content/uploads/2020/09/330-x-82-@2x.png" width="250" style="background-color:white"/> -->
 
-- Working as Software Engineer **@ [Intech Automation & Intelligence](https://www.intechww.com/)**
+- Worked as Software Engineer **@ [Intech Automation & Intelligence](https://www.intechww.com/)**
+- Working as Software Engineer **@ [Mosaik Inc.](https://mosaik.io)**
 ## 🌱 I’m currently learning ...
 
 - Machine Learning
