@@ -1,99 +1,293 @@
-<!--
-**mhamzaasif/mhamzaasif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Muhammad Hamza
 
-Here are some ideas to get you started:
+### Senior Full Stack Engineer · Product Engineer · Mobile & Web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<body style="background-color:black;color:wheat">
-<!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
-<!-- <p>
-  <em>Software Engineer from <a href="http://www.ucp.edu.pk">University of Central Punjab</a>     
-    </br>
-    Currently Working at <a href="https://www.allzonetech.com">Allzone Tech</a>
-    <br/><img src="https://allzonetech.com/wp-content/uploads/2019/10/Logo.png" width="250"/> 
-  </em>
-</p> -->
+> **I build, ship, and scale production software — from product idea to deployment.**
 
-# Hi there 👋
+I'm a **Full Stack Software Engineer and Product Lead** with **7+ years of experience** building web applications, cross-platform mobile products, backend systems, and production infrastructure.
 
-**I am a computer science _graduate_ 🎓 and _software Engineer_ 👨‍💻 in persuit of learning something new from industry along side the conventional education.**
+My core strength is working across the entire product lifecycle — **understanding the problem, designing the solution, building it, deploying it, and making it reliable in production.**
 
-# <div styles="dispaly:flex;align-items:center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100px"> A little more about me...</div>
+I enjoy solving complex engineering problems and turning ambiguous requirements into simple, maintainable systems.
+
+---
+
+## 🧑‍💻 About Me
+
+* 🚀 **7+ years** building production software
+* 🌐 Full-stack web development with **MERN & Next.js**
+* 📱 Cross-platform mobile development with **React Native & Expo**
+* 🏗️ Product architecture, technical POCs & implementation strategy
+* 🔌 Backend APIs, integrations & data-driven systems
+* ☁️ Cloud infrastructure, deployment & production troubleshooting
+* 🤝 Client-facing engineering & technical collaboration
+* 🧠 Exploring **AI, LLMs, RAG & local AI systems**
+
+---
+
+## ⚡ What I Specialize In
+
+| Area              | Technologies                                      |
+| ----------------- | ------------------------------------------------- |
+| 🌐 Web            | React · Next.js · TypeScript                      |
+| 📱 Mobile         | React Native · Expo · Expo Router                 |
+| ⚙️ Backend        | Node.js · NestJS · Express · Ruby on Rails        |
+| 🗄️ Databases     | PostgreSQL · MySQL · MongoDB · Firebase           |
+| 🔄 State & Data   | Redux Toolkit · RTK Query                         |
+| ☁️ Infrastructure | AWS · Docker · Nginx · Linux · PM2                |
+| 🧪 Development    | TypeScript · JavaScript · Ruby · SQL              |
+| 🤖 AI / RAG       | FAISS · Chroma · Hugging Face · GGUF · Local LLMs |
+| 🛠️ Tooling       | Git · GitHub · Xcode · Android Studio · EAS       |
+
+---
+
+## 🏗️ How I Approach Engineering
+
+I don't see software development as simply writing code.
+
+I think in terms of:
+
+```text
+                 PRODUCT
+                    │
+                    ▼
+             ┌─────────────┐
+             │  Understand │
+             │  the Problem │
+             └──────┬──────┘
+                    │
+                    ▼
+             ┌─────────────┐
+             │   Design    │
+             │  Solution   │
+             └──────┬──────┘
+                    │
+                    ▼
+          ┌────────────────────┐
+          │      BUILD         │
+          │                    │
+          │ Web · Mobile · API │
+          └─────────┬──────────┘
+                    │
+                    ▼
+             ┌─────────────┐
+             │    SHIP     │
+             │ Deploy & CI │
+             └──────┬──────┘
+                    │
+                    ▼
+             ┌─────────────┐
+             │   IMPROVE   │
+             │ Performance │
+             │ Reliability │
+             └─────────────┘
+```
+
+The goal isn't just to make something work.
+
+**The goal is to make it work reliably in the real world.**
+
+---
+
+## 💼 Professional Journey
+
+### 🏢 Mosaik Inc.
+
+**Software Engineer / Product Engineering**
+
+Working across product engineering, application stability, messaging, notifications, and production systems.
+
+Highlights include:
+
+* Improved application stability and reduced crash rates by **~30%**
+* Worked on messaging and notification infrastructure
+* Built and maintained production mobile and web experiences
+* Troubleshot complex production and deployment issues
+* Collaborated across engineering and product requirements
+
+### 🏢 Intech Process Automation
+
+**Software Engineer**
+
+Worked on enterprise software solutions and data-driven systems in an industrial automation environment.
+
+### 🏢 Phaedra Solutions
+
+**Software Engineer**
+
+Built web applications and backend services across multiple client projects.
+
+### 🏢 Allzone Technologies
+
+**Software Engineer**
+
+Worked on full-stack software development and application delivery.
+
+---
+
+## 📱 Mobile Engineering
+
+One of my strongest areas is **React Native + Expo**.
+
+I've worked extensively with:
+
+```text
+React Native
+      │
+      ├── Expo
+      ├── Expo Router
+      ├── React Navigation
+      ├── TypeScript
+      ├── Redux Toolkit
+      ├── RTK Query
+      ├── EAS Build
+      ├── iOS
+      └── Android
+```
+
+I'm particularly interested in the engineering challenges behind production mobile applications:
+
+* Navigation architecture
+* Authentication & protected routes
+* Deep linking
+* API state management
+* File & image uploads
+* Push notifications
+* Native modules
+* iOS / Android build systems
+* EAS & CI/CD
+* Performance and stability
+
+---
+
+## 🧠 AI & RAG
+
+I'm currently exploring the intersection of **AI and software engineering**, with a particular interest in systems that can run locally.
+
+Areas I'm experimenting with:
+
+* 🤖 Local LLMs
+* 🔎 Retrieval-Augmented Generation
+* 🗃️ Vector databases
+* ⚡ FAISS
+* 🧠 Chroma
+* 🤗 Hugging Face
+* 📦 GGUF models
+* 📝 Document intelligence
+* 🗄️ Natural-language → SQL
+* 💻 Offline AI workflows
+
+My interest isn't AI for the sake of AI.
+
+I'm interested in **how AI can become a practical component of real software products.**
+
+---
+
+## 🚀 Things I've Built / Worked On
+
+Some of the areas and products I've worked across include:
+
+* 📱 Cross-platform mobile applications
+* 💬 Real-time messaging platforms
+* 🔔 Notification systems
+* 🏢 Organization & workspace platforms
+* 📊 Data feeds & integrations
+* 🌐 Full-stack SaaS applications
+* 🔐 Authentication & authorization systems
+* ☁️ Cloud-hosted production systems
+* 🤖 AI / RAG experiments
+* 🧪 Internal technical POCs
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square\&logo=ruby\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+
+### Frontend & Mobile
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square\&logo=expo\&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
+![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square\&logo=rubyonrails\&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
+
+### DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhamzaasif&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhamzaasif&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamzaasif&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 ## 🎓 Education
 
-- Computer Science graduation from **[University of Central Punjab](www.ucp.edu.pk)** <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
- <!-- <img src="https://www.ucp.edu.pk/inc/uploads/2019/06/ucp-sticky-logo-white-1.png"/>-->
+**Bachelor of Science in Computer Science**
 
-## 🖥️ Work History
+University of Central Punjab
 
-- Worked as Software Engineer **@ [Allzone Technologies](https://www.allzonetech.com)**
- <!-- <img src="https://allzonetech.com/wp-content/uploads/2020/12/site-logo-inverse-200.png" width="250"/> -->
+---
 
-- Worked as Software Engineer **@ [Phaedra Solutions](https://www.phaedrasolutions.com/)**
-<!--  <img src="https://www.phaedrasolutions.com/wp-content/uploads/2020/09/330-x-82-@2x.png" width="250" style="background-color:white"/> -->
+## 🌱 Always Learning
 
-- Worked as Software Engineer **@ [Intech Automation & Intelligence](https://www.intechww.com/)**
-- Working as Software Engineer **@ [Mosaik Inc.](https://mosaik.io)**
-## 🌱 I’m currently learning ...
+Technology doesn't stay still, and neither do I.
 
-- Machine Learning
-- Artificial Intelligence
-- Modern Web development
+Currently exploring:
 
-## 🔭 I’m currently working on ...
+**AI Engineering · Local LLMs · RAG · System Architecture · Product Engineering · Distributed Systems**
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Mac%20OS-informational?logo=apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=Sass&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-NodeJs-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-NextJs-informational?style=flat&logo=Next.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Code%20Igniter-informational?style=flat&logo=codeigniter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-NestJs-informational?style=flat&logo=NestJs&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Datebase-PostgreSql-informational?style=flat&logo=PostgreSql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Datebase-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Datebase-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Datebase-Microsoft%20SQL%20Server-informational?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Datebase-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=Jest&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Testing-Selenium-informational?style=flat&logo=Selenium&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Version%20Control-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Vs%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Technology-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Deployment-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-amazon%20aws-informational?style=flat&logo=amazon+aws&logoColor=white&color=2bbc8a)
-  
-  
-# ⚡ Fun facts
+---
 
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhamzaasif&show_icons=true&theme=synthwave)
+## 🤝 Let's Connect
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhamzaasif&langs_count=10&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+I'm always interested in connecting with engineers, founders, product people, and anyone working on interesting technical problems.
 
-![](https://www.codewars.com/users/mhamzaasif/badges/large)
+<p align="left">
+  <a href="https://github.com/mhamzaasif">
+    <img src="https://img.shields.io/badge/GitHub-mhamzaasif-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-hamza-44488715a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-## 📫 How to reach me:
+---
 
-[![Linkedin: Muhammad Hamza](https://img.shields.io/badge/-muhammad--hamza--44488715a-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-hamza-44488715a/)](https://www.linkedin.com/in/muhammad-hamza-44488715a/)
-
-[![GitHub mhamzaasif](https://img.shields.io/github/followers/mhamzaasif?label=follow&style=social)](https://github.com/mhamzaasif)
-
-[![Twitter: Muhammad Hamza](https://img.shields.io/twitter/follow/its_hamzaasif?style=social)](https://twitter.com/its_hamzaasif)
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-</body>
+<p align="center">
+  <b>Build things that matter.</b>
+  <br />
+  <sub>Think deeply · Build carefully · Ship confidently</sub>
+</p>
