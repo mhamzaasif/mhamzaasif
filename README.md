@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <body style="background-color:black;color:wheat">
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
 <!-- <p>
   <em>Software Engineer from <a href="http://www.ucp.edu.pk">University of Central Punjab</a>     
     </br>
